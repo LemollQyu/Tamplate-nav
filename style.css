@@ -53,6 +53,7 @@ p, a, cite, blockquote {
 	align-items: center;
 	padding: 0 3%;
 	position: fixed;
+	top:0;
 	z-index: 999;
 	color: #fff;
 	width: 100%;
